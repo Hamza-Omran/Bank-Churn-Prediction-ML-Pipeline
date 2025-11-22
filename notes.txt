@@ -1,1 +1,0 @@
-we should have only clean the x train data and test not and apply lda and pca on x train this is why the data is biased and should not drop any data before knowing why and how it came to us
