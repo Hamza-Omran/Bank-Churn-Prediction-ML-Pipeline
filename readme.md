@@ -1,5 +1,8 @@
 # Bank Customer Churn Prediction - 2025
 
+## Academic Context
+This project was developed as part of the "Data Computation Analysis" course (2025).
+
 **Team Members:**
 
 * Ahmad Khalifa Abdulraouf Mohamad – 22010018
